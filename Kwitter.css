@@ -1,0 +1,60 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to  bottom, #ac66f3, #7d0ff3e3, #7302a0);
+}
+
+.header
+{
+	color: white;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Sassy Frass', cursive;
+}
+
+
+.header img
+{
+	width: 80px;margin-left: 20px;
+}
+
+.container
+{
+    background: rgb(255, 255, 255);
+    float: none;
+    width: 900px;
+    height: 900px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.login_div
+{
+    width: 900px;
+    
+    
+}
+
+.logintwo_div
+{
+    width: 400px;
+    
+}
+
+
+.logo
+{
+	width: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 5px;
+}
